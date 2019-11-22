@@ -66,5 +66,5 @@ $(".saveBtn").click(function () {
         localStorage.setItem("appointments", JSON.stringify(tempArray));
 
     }
-    $(this).parent('div').children('div').children('textarea').replaceWith($('<textarea>' + appointText.addClass("textarea") + '</textarea>'));
+    
 })
