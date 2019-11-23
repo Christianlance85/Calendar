@@ -18,7 +18,7 @@ SO THAT I can manage my time effectively
 ![Password Generator Demo](/assets/day-planner.PNG)
 
 ## GitHub Pages Link
-
+https://christianlance85.github.io/Calendar/
 
 
 ## Installation
